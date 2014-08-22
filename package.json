@@ -4,6 +4,7 @@
   "description": "my first socket app",
   "dependencies": {
     "express": "~4.8.5",
-    "socket.io": "~1.0.6"
+    "socket.io": "~1.0.6",
+    "jquery": "~2.1.1"
   }
 }
